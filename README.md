@@ -1,5 +1,3 @@
-# .github-private
-
 # MentorJi
 
 ![MentorJi Logo](https://mentorji.live/store/1/light-170w-40h.png)
